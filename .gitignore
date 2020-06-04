@@ -1,0 +1,7 @@
+#Estos archivos no se incluira en el repositorio
+*.tmp
+notificaciones.txt
+borrar.css
+#Estas carpetas no se incluiran en el repositorio
+/pruebas
+/obj
